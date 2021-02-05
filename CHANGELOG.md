@@ -1,5 +1,11 @@
-
 # Change History & Release Notes
+
+## [2.33.0](https://www.github.com/steveukx/git-js/compare/v2.32.0...v2.33.0) (2021-02-05)
+
+
+### Features
+
+* automate release/changelog with release-please ([3848494](https://www.github.com/steveukx/git-js/commit/384849488ada32f18c84eea22aad7b9ceb2000b5))
 
 ## 2.32.0 Per-command Configuration
 
